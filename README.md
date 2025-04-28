@@ -16,17 +16,17 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔎 **Topic-Based Paper Fetching**: Retrieve papers from arXiv with simple keyword queries.
-- 💬 **Interactive Chat**: Summarize, compare, and query papers using a Retrieval-Augmented Generation (RAG) system.
-- 📊 **Similarity Visualization**: Generate and view a TF-IDF-based heatmap of paper similarities.
-- 🛠️ **Customizable & Open**: Modify embedding models, prompts, or expand sources easily.
-- 🖥️ **User-Friendly Interface**: Powered by Gradio; no complex setup required.
+- **Topic-Based Paper Fetching**: Retrieve papers from arXiv with simple keyword queries.
+- **Interactive Chat**: Summarize, compare, and query papers using a Retrieval-Augmented Generation (RAG) system.
+- **Similarity Visualization**: Generate and view a TF-IDF-based heatmap of paper similarities.
+- **Customizable & Open**: Modify embedding models, prompts, or expand sources easily.
+- **User-Friendly Interface**: Powered by Gradio; no complex setup required.
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```plaintext
 User Input (Topic, Paper Count)
