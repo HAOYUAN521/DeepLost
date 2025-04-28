@@ -1,7 +1,9 @@
 # RAG-Based AI Research Assistant
 
 > Efficiently Discover, Analyze, and Summarize Research Papers Using Retrieval-Augmented Generation (RAG) and Modern NLP Techniques.
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Interface-Gradio-orange)](https://gradio.app/)
 ---
 
 ## Introduction
