@@ -56,4 +56,5 @@ Results Display (Gradio Interface)
 - Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
 - Haoyuan Wang (hw4m@mtmail.mtsu.edu)
 ---
-## A.I. Disclaimer: Work for this project was completed with the aid of artificial intelligence tools.
+## A.I. Disclaimer
+Work for this project was completed with the aid of artificial intelligence tools.
