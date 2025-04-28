@@ -28,7 +28,7 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 ---
 ## Prerequisites
 - Python 3.8+
-- OpenAI API key
+- Azure OpenAI API key
 ---
 ## Maintainers
 - Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
