@@ -52,8 +52,8 @@ Results Display (Gradio Interface)
 - Azure OpenAI API key
 ---
 ## Maintainers
-- Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
 - Danlei Zhu (dz2t@mtmail.mtsu.edu)
+- Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
 - Haoyuan Wang (hw4m@mtmail.mtsu.edu)
 ---
 ## A.I. Disclaimer: Work for this project was completed with the aid of artificial intelligence tools.
