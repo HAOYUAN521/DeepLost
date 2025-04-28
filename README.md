@@ -1,5 +1,4 @@
 # RAG-Based AI Research Assistant
-## Disclaimer: All work is based on the help of chatgpt
 > Efficiently Discover, Analyze, and Summarize Research Papers Using Retrieval-Augmented Generation (RAG) and Modern NLP Techniques.
 
 ---
@@ -24,16 +23,6 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 - **Customizable & Open**: Modify embedding models, prompts, or expand sources easily.
 - **User-Friendly Interface**: Powered by Gradio; no complex setup required.
 
-  
----
-## Prerequisites
-- Python 3.8+
-- Azure OpenAI API key
----
-## Maintainers
-- Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
-- Danlei Zhu (dz2t@mtmail.mtsu.edu)
-- Haoyuan Wang (hw4m@mtmail.mtsu.edu)
 ---
 
 ## System Architecture
@@ -57,4 +46,14 @@ Query arXiv → Download PDFs
     • Retrieval and Chat
         ↓
 Results Display (Gradio Interface)
-
+```
+## Prerequisites
+- Python 3.8+
+- Azure OpenAI API key
+---
+## Maintainers
+- Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
+- Danlei Zhu (dz2t@mtmail.mtsu.edu)
+- Haoyuan Wang (hw4m@mtmail.mtsu.edu)
+---
+## Disclaimer: All work is based on the help of chatgpt
