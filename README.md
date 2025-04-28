@@ -42,18 +42,18 @@ User Input (Topic, Paper Count)
         ↓
 Query arXiv → Download PDFs
         ↓
-➤ RAG Pipeline (LangChain + FAISS + OpenAI)
-    • Text Extraction
-    • Chunking
-    • Embedding Generation
-    • Vector Storage
-    • Retrieval and Chat
 ➤ TF-IDF Pipeline (scikit-learn)
     • Text Extraction
     • Cleaning
     • TF-IDF Vectorization
     • Cosine Similarity Computation
     • Heatmap Visualization
+➤ RAG Pipeline (LangChain + FAISS + OpenAI)
+    • Text Extraction
+    • Chunking
+    • Embedding Generation
+    • Vector Storage
+    • Retrieval and Chat
         ↓
 Results Display (Gradio Interface)
 
