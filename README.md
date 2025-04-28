@@ -1,4 +1,4 @@
-# DEEPLOST - RAG-Based AI Research Assistant
+# RAG-Based AI Research Assistant
 
 > Efficiently Discover, Analyze, and Summarize Research Papers Using Retrieval-Augmented Generation (RAG) and Modern NLP Techniques.
 
