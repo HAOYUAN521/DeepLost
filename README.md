@@ -6,7 +6,7 @@
 
 ## 📖 Introduction
 
-The exponential growth of academic papers makes it increasingly challenging for researchers to stay updated. **DEEPLOST** aims to alleviate this burden by automating:
+The exponential growth of academic papers makes it increasingly challenging for researchers to stay updated. We aims to alleviate this burden by automating:
 
 - **Fetching relevant papers from arXiv**
 - **Summarizing and comparing papers via a RAG-powered chat assistant**
