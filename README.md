@@ -28,7 +28,6 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 
 ## System Architecture
 
-```plaintext
 User Input (Topic, Paper Count)
         ↓
 Query arXiv → Download PDFs
