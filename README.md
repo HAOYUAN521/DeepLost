@@ -24,6 +24,11 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 - **Customizable & Open**: Modify embedding models, prompts, or expand sources easily.
 - **User-Friendly Interface**: Powered by Gradio; no complex setup required.
 
+  
+---
+## Prerequisites
+- Python 3.8+
+- OpenAI API key
 ---
 
 ## System Architecture
