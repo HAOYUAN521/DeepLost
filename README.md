@@ -47,3 +47,4 @@ Query arXiv → Download PDFs
     • Heatmap Visualization
         ↓
 Results Display (Gradio Interface)
+
