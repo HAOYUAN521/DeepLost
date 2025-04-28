@@ -1,5 +1,5 @@
 # RAG-Based AI Research Assistant
-
+## Disclaimer: All work is based on the help of chatgpt
 > Efficiently Discover, Analyze, and Summarize Research Papers Using Retrieval-Augmented Generation (RAG) and Modern NLP Techniques.
 
 ---
@@ -35,8 +35,7 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 - Danlei Zhu (dz2t@mtmail.mtsu.edu)
 - Haoyuan Wang (hw4m@mtmail.mtsu.edu)
 ---
-## Disclaimer: All work is based on the help of chatgpt
----
+
 ## System Architecture
 
 ```plaintext
