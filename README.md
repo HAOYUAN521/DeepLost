@@ -11,7 +11,7 @@ The exponential growth of academic papers makes it increasingly challenging for 
 - **Summarizing and comparing papers via a RAG-powered chat assistant**
 - **Visualizing relationships between papers through TF-IDF similarity matrices**
 
-By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST helps streamline literature reviews and research exploration.
+By leveraging cutting-edge AI and information retrieval techniques, we helps streamline literature reviews and research exploration.
 
 ---
 
