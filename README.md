@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 The exponential growth of academic papers makes it increasingly challenging for researchers to stay updated. We aims to alleviate this burden by automating:
 
