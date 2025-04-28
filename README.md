@@ -30,7 +30,11 @@ By leveraging cutting-edge AI and information retrieval techniques, DEEPLOST hel
 - Python 3.8+
 - OpenAI API key
 ---
-
+## Maintainers
+- Yousaf Khaliq (yak2a@mtmail.mtsu.edu)
+- Danlei Zhu (dz2t@mtmail.mtsu.edu)
+- Haoyuan Wang (hw4m@mtmail.mtsu.edu)
+---
 ## System Architecture
 
 ```plaintext
